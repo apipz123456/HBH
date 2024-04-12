@@ -126,7 +126,7 @@
       {
         year: 2024,
         month: 4,
-        day: 13,
+        day: 12,
         hours: 9,
         minutes: 59,
         seconds: 0,
